@@ -1,0 +1,5 @@
+Contents include a vhdl file and its testbench. It is a generic ALU which is capable of
+performing 32-bit operartions. 
+The operations are AND, OR, XOR, MULTIPLICATION, ADDITION AND SUBTRACTION.
+A simple testbench is also included.
+Done on Xilinx ISE.
